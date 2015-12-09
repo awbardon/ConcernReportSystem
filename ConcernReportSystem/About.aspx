@@ -4,5 +4,4 @@
     <h2><%: Title %>.</h2>
     <h3>Your application description page.</h3>
     <p>Use this Tests additional information.</p>
-    <p>This is the about page.</p>
 </asp:Content>
